@@ -12,7 +12,7 @@ Soy un desarrollador web con habilidades en JavaScript, TypeScript, SQL, MongoDB
 - **Frameworks/Librerías** : NestJS, Express, React.
 
 
-##🌐 Encuéntrame en:
+# 🌐 Encuéntrame en:
 
 - 👨🏻‍💼 LinkedIn: https://www.linkedin.com/in/jorge-rivera-3a13a9309
 - 📫 Correo electrónico: jorgeriverlopez@gmail.com 
