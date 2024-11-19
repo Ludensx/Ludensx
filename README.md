@@ -8,8 +8,8 @@ Soy un desarrollador web con habilidades en JavaScript, TypeScript, SQL, MongoDB
 
 # 🛠️ Tecnologías y herramientas:
 
-- **Lenguajes** : JavaScript, TypeScript, SQL, HTML, CSS.
-- **Frameworks/Librerías** : NestJS, Express, React.
+- **Lenguajes**: JavaScript, TypeScript, SQL, HTML, CSS.
+- **Frameworks / Librerías**: NestJS, Express, React.
 
 
 # 🌐 Encuéntrame en:
