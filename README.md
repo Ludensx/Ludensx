@@ -19,5 +19,5 @@ Soy un desarrollador web con habilidades en JavaScript, TypeScript, SQL, MongoDB
 
 
 **Recidencia Actual:** Colombia-Popayán(Cauca).
-
--**¡Gracias por visitar mi perfil! 😀**
+##
+**¡Gracias por visitar mi perfil! 😀**
