@@ -18,4 +18,5 @@ Soy un desarrollador web con habilidades en JavaScript, TypeScript, SQL, MongoDB
 - 📫 Correo electrónico: jorgeriverlopez@gmail.com 
 
 
-¡Gracias por visitar mi perfil! 😀
+**Recidencia Actual:** Colombia-Popayán(Cauca).
+**¡Gracias por visitar mi perfil! 😀**
