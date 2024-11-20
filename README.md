@@ -15,9 +15,7 @@ Soy un desarrollador web con habilidades en JavaScript, TypeScript, SQL, MongoDB
 # 🌐 Encuéntrame en:
 
 - 👨🏻‍💼 LinkedIn: https://www.linkedin.com/in/jorge-rivera-3a13a9309
-- 📫 Correo electrónico: jorgeriverlopez@gmail.com 
-
-
-**Recidencia Actual:** Colombia-Popayán(Cauca).
+- 📫 Correo electrónico: jorgeriverlopez@gmail.com
+- 
 ##
 **¡Gracias por visitar mi perfil! 😀**
